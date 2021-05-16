@@ -3,3 +3,5 @@ git push -u origin master
 git add .
 git commit -m "提交信息"
 git push origin master
+
+/Users/catalina/js/es6vue/vue3/bin
